@@ -1,0 +1,65 @@
+.navbar{
+    height: 12vh;
+}
+
+.navbar{
+    background-color: #FCDC94;
+}
+
+#logo{
+    height: 2.5rem;
+}
+
+.navbar-nav{
+    gap: 0.3rem;
+}
+
+.costum-btn{
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    background-color: #D6589F;
+    height: 2.4rem;
+}
+
+main{
+    min-height: 80vh;
+}
+
+.banner{
+    height: 50vh;
+    object-fit: cover;
+}
+
+#message{
+    resize: none;
+}
+
+.card-img-size{
+    height: 30vh;
+}
+
+.card-desc-size{
+    height: 15vh;
+}
+
+.img-details-size{
+    height: 50vh;
+}
+
+footer{
+    height: 8vh;
+    color: white;
+    background-color: #D6589F;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.social{
+    gap: 1rem;
+}
+
+.social-icon{
+    border-radius: 0.4rem;
+    height: 2rem;
+}
